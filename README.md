@@ -10,3 +10,4 @@ console.log([1, 2, 3].includes(3, -1)); // ****
 console.log([1, 2, NaN].includes(NaN)); // *****
 console.log(['1', '2', '3'].includes(3)); // ******
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
